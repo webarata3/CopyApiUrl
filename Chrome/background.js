@@ -14,7 +14,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
       displayUrl = displayUrl.substr(0, bracketIndex);
     }
 
-    blogLink = `[code]<a href="${url}">${displayUrl}</a>[/code]`;
+    blogLink = `<code><a href="${url}">${displayUrl}</a></code>`;
     document.execCommand('copy');
   });
 });
