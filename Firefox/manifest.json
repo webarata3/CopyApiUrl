@@ -4,6 +4,11 @@
   "author": "Shinichi ARATA",
   "description": "Blog用にAPIドキュメントのURLをコピーするツールです",
   "version": "0.1.2",
+  "applications": {
+    "gecko": {
+      "id": "copyapiurl@webarata3.link"
+    }
+  },
   "permissions":[
     "activeTab",
     "clipboardWrite"
@@ -11,16 +16,16 @@
   "background": {
     "scripts": ["background.js"]
   },
-  "icons": {
-    "16": "image/icon16.png",
-    "64": "image/icon64.png",
-    "128": "image/icon128.png"
-  },
   "browser_action": {
     "default_icon": {
       "19": "image/icon19.png",
       "38": "image/icon38.png"
     },
     "default_title": "Copy API URL"
+  },
+  "icons": {
+    "16": "image/icon16.png",
+    "64": "image/icon64.png",
+    "128": "image/icon128.png"
   }
 }
