@@ -4,7 +4,14 @@
     <list default="true" id="f4063a29-6a7d-48db-9364-a6c0def0250e" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/asset/icon512.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chrome/image/icon16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Chrome/image/icon16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chrome/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chrome/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Firefox/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firefox/image/icon128.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firefox/image/icon16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firefox/image/icon19.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firefox/image/icon38.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firefox/image/icon64.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon64.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Firefox/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asset/icon128.png" beforeDir="false" />
     </list>
@@ -19,7 +26,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chrome/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -37,10 +54,10 @@
         <option value="$PROJECT_DIR$/Chrome/popup.html" />
         <option value="$PROJECT_DIR$/Chrome/popup.js" />
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/Chrome/manifest.json" />
         <option value="$PROJECT_DIR$/Firefox/manifest.json" />
         <option value="$PROJECT_DIR$/Chrome/background.js" />
         <option value="$PROJECT_DIR$/Firefox/background.js" />
+        <option value="$PROJECT_DIR$/Chrome/manifest.json" />
       </list>
     </option>
   </component>
@@ -128,8 +145,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Firefox" />
+      <recent name="$PROJECT_DIR$/Firefox/image" />
       <recent name="$PROJECT_DIR$/asset" />
+      <recent name="$PROJECT_DIR$/Firefox" />
       <recent name="$PROJECT_DIR$/Chrome/image" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -162,24 +180,24 @@
       <workItem from="1525060734338" duration="3615000" />
       <workItem from="1525084097627" duration="2784000" />
       <workItem from="1525505444752" duration="700000" />
-      <workItem from="1525944731886" duration="210000" />
+      <workItem from="1525944731886" duration="461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16004000" />
+    <option name="totallyTimeSpent" value="16255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="266" y="23" width="1342" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981076" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981076" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -321,13 +339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chrome/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/asset/icon128.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -342,6 +353,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chrome/image/icon16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chrome/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
