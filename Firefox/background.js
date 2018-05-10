@@ -14,7 +14,7 @@ chrome.browserAction.onClicked.addListener(tab => {
   }
 
   blogLink = `<code><a href="${url}">${displayUrl}</a></code>`;
-  document.execCommand('copy');
+  console.log(document.execCommand('copy'));
 });
 
 document.addEventListener('copy', e => {
