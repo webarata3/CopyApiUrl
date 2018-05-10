@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4063a29-6a7d-48db-9364-a6c0def0250e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/icon512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icon128.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome/image/icon16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Chrome/image/icon16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chrome/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firefox/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firefox/image/icon128.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firefox/image/icon16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firefox/image/icon19.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firefox/image/icon38.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon38.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firefox/image/icon64.png" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/image/icon64.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Firefox/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Firefox/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/icon128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/icon512.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/icon512.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +21,8 @@
       <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chrome/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -79,7 +70,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="266" />
+    <option name="x" value="186" />
     <option name="y" value="23" />
     <option name="width" value="1342" />
     <option name="height" value="1000" />
@@ -144,11 +135,14 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chrome/image" />
       <recent name="$PROJECT_DIR$/Firefox/image" />
       <recent name="$PROJECT_DIR$/asset" />
       <recent name="$PROJECT_DIR$/Firefox" />
-      <recent name="$PROJECT_DIR$/Chrome/image" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -180,24 +174,25 @@
       <workItem from="1525060734338" duration="3615000" />
       <workItem from="1525084097627" duration="2784000" />
       <workItem from="1525505444752" duration="700000" />
-      <workItem from="1525944731886" duration="461000" />
+      <workItem from="1525944731886" duration="1763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16255000" />
+    <option name="totallyTimeSpent" value="17557000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="266" y="23" width="1342" height="1000" extended-state="0" />
+    <frame x="186" y="23" width="1342" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981076" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981076" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -361,8 +356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chrome/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="210">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>
