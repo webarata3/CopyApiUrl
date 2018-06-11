@@ -3,7 +3,7 @@
   "name": "Copy API URL",
   "author": "Shinichi ARATA",
   "description": "Blog用にAPIドキュメントのURLをコピーするツールです",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "permissions":[
     "activeTab",
     "clipboardWrite"
